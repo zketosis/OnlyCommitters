@@ -3,4 +3,4 @@ You need to commit. To be legit.
 
 (https://www.yourdictionary.com/committer)
 
-![](https://github.com/zketosis/OnlyCommitters/commit.png?v=4&s=200)
+<img src="https://github.com/zketosis/OnlyCommitters/raw/master/commit.png" width="510" >
